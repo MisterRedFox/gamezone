@@ -13,7 +13,7 @@
    "Xbox Series X",
    "Consolas",
    11999.0,
-   3,
+   2,
    3
   ],
   [
@@ -21,7 +21,7 @@
    "Nintendo Switch OLED",
    "Consolas",
    7999.0,
-   6,
+   5,
    3
   ],
   [
@@ -37,7 +37,7 @@
    "Zelda: Tears of the Kingdom",
    "Videojuegos",
    1399.0,
-   22,
+   21,
    6
   ],
   [
@@ -53,7 +53,7 @@
    "God of War Ragnarök",
    "Videojuegos",
    1199.0,
-   4,
+   44,
    6
   ],
   [
@@ -69,7 +69,7 @@
    "Control DualSense",
    "Accesorios",
    1699.0,
-   2,
+   37,
    6
   ],
   [
@@ -119,6 +119,14 @@
    199.0,
    8,
    6
+  ],
+  [
+   "GZ-016",
+   "Figura Marcus Fenix",
+   "Coleccionables",
+   1299.0,
+   25,
+   5
   ]
  ],
  "empleados": [
@@ -141,6 +149,11 @@
    4,
    "Miguel",
    "Almacenista"
+  ],
+  [
+   5,
+   "Dante",
+   "Vendedor"
   ]
  ],
  "tickets": [
@@ -2843,6 +2856,40 @@
    "Historial de ejemplo",
    0.0,
    0.0
+  ],
+  [
+   151,
+   "2026-09-30 23:29",
+   "Dante",
+   [
+    [
+     "GZ-002",
+     "Xbox Series X",
+     "Consolas",
+     11999.0,
+     1,
+     0
+    ],
+    [
+     "GZ-003",
+     "Nintendo Switch OLED",
+     "Consolas",
+     7999.0,
+     1,
+     0
+    ],
+    [
+     "GZ-005",
+     "Zelda: Tears of the Kingdom",
+     "Videojuegos",
+     1399.0,
+     1,
+     0
+    ]
+   ],
+   "",
+   21397.0,
+   0.0
   ]
  ],
  "devoluciones": [],
@@ -2982,9 +3029,63 @@
    8,
    "Inventario inicial",
    8
+  ],
+  [
+   "2026-09-30 23:29",
+   "GZ-002",
+   "Xbox Series X",
+   "Venta",
+   -1,
+   "Ticket #151",
+   2
+  ],
+  [
+   "2026-09-30 23:29",
+   "GZ-003",
+   "Nintendo Switch OLED",
+   "Venta",
+   -1,
+   "Ticket #151",
+   5
+  ],
+  [
+   "2026-09-30 23:29",
+   "GZ-005",
+   "Zelda: Tears of the Kingdom",
+   "Venta",
+   -1,
+   "Ticket #151",
+   21
+  ],
+  [
+   "2026-09-30 23:32",
+   "GZ-016",
+   "Figura Marcus Fenix",
+   "Entrada",
+   25,
+   "Alta de producto",
+   25
+  ],
+  [
+   "2026-09-30 23:41",
+   "GZ-009",
+   "Control DualSense",
+   "Entrada",
+   35,
+   "Reabastecimiento",
+   37
+  ],
+  [
+   "2026-09-30 23:41",
+   "GZ-007",
+   "God of War Ragnarök",
+   "Entrada",
+   40,
+   "Reabastecimiento",
+   44
   ]
  ],
- "sig_folio": 151,
+ "sig_folio": 152,
  "sig_preventa": 1,
- "sig_empleado": 5
+ "sig_empleado": 6
 }
